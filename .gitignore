@@ -1,2 +1,25 @@
-# Google App Engine generated folder
-appengine-generated/
+# Ignore files and directories
+
+# Python files
+__pycache__/
+*.pyc
+
+# Data files
+data/
+
+# Model files
+models/
+
+# Utility files
+utils/
+
+# Virtual environment files
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Other files
+*.log
+*.tmp
